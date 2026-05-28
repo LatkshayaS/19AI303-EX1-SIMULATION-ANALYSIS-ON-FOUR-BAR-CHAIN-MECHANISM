@@ -51,10 +51,10 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 ##Input:
-![EX1I](EX1_INPUT)
+![EX1I](EX1_INPUT.png)
 
 ## Output:
-![EX1O](EX1_OUTPUT)    
+![EX1O](EX1_OUTPUT.png)    
 
 
 ### Name:Latkshaya
