@@ -57,7 +57,7 @@
 ![EX1O](EX1_OUTPUT.png)    
 
 
-### Name:Latkshaya
+### Name:Latkshaya S
 ### Register Number:212225240078
 
 ## RESULT:
